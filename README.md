@@ -1,85 +1,86 @@
-# 👋 Hola, soy Gerardo Fernández 🧑🏻‍💻
-### Desarrollador Web Full Stack en formación | Bootcamp TripleTen
+👋 Hola, soy Gerardo Fernández
+Full Stack Developer Junior
 
-Bienvenido a mi perfil de GitHub 🚀  
+Bienvenido a mi perfil de GitHub 🚀
 
-Soy desarrollador web en formación con experiencia previa en instalación y programación de sistemas de seguridad electrónica dentro del negocio familiar. Descubrí mi interés por la programación al configurar y programar estos equipos, lo que me motivó a profundizar en el desarrollo de software.
+Soy desarrollador Full Stack Junior con experiencia previa de más de 15 años en infraestructura tecnológica, redes, automatización y sistemas de seguridad electrónica. Actualmente desarrollo aplicaciones web modernas utilizando JavaScript, React, Node.js, Express y MongoDB.
 
-Desde hace 7 meses decidí dar el siguiente paso y actualmente soy estudiante del **Bootcamp de Desarrollo Web en TripleTen**, donde he trabajado con tecnologías modernas y buenas prácticas de desarrollo.
+Mi transición hacia el desarrollo de software comenzó trabajando en programación y configuración de sistemas tecnológicos dentro del negocio familiar, lo que despertó mi interés por crear soluciones digitales y profundizar en el desarrollo web.
 
----
+Actualmente curso el Bootcamp de Desarrollo Web Full Stack en TripleTen, donde he desarrollado proyectos enfocados en experiencia de usuario, aplicaciones responsivas y arquitectura moderna de aplicaciones web.
 
-## 🛠️ Tecnologías y conocimientos
+🛠️ Tecnologías y herramientas
+Frontend
+HTML5
+CSS3
+JavaScript ES6
+React
+Responsive Web Design
+BEM
 
-**Frontend**
-- HTML
-- CSS
-- Metodología BEM
-- JavaScript
+Backend
+Node.js
+Express.js
+MongoDB
+REST APIs
 
-**Conceptos**
-- Responsive Design  
-- Programación Orientada a Objetos  
-- Código asíncrono  
+Herramientas
+Git
+GitHub
+Webpack
+VS Code
 
-**Próximamente**
-- React
-- Node.js
-- Express
-- MongoDB
+📂 Proyectos Destacados
+🔹 Expense Tracker App
 
----
+Aplicación web diseñada para gestionar y visualizar gastos mediante una interfaz dinámica y responsiva.
 
-## 📂 Proyectos destacados
+Tecnologías
 
-### 🔹 Proyecto 1 – [web_project_expenses_es]
-Repositorio:  https://gerar2309dfm.github.io/web_project_expenses_es/
+HTML • CSS • JavaScript
 
-**Contexto**  
-Proyecto enfocado en el desarrollo de una interfaz web funcional y responsiva, aplicando buenas prácticas de estructura y diseño.
+Funcionalidades
+Gestión visual de gastos
+Manipulación dinámica del DOM
+Diseño responsive
+Validaciones y eventos interactivos
+Demo
 
-**Tecnologías**  
-HTML, CSS, JavaScript
+Ver proyecto
 
-**Aprendizajes**  
-- Organización de código usando metodología BEM  
-- Manejo de eventos y lógica en JavaScript  
-- Mejora en la estructura y mantenibilidad del proyecto  
+🔹 Around The U.S. — Interactive Social Gallery
 
----
+Aplicación web interactiva donde los usuarios pueden crear, editar y gestionar tarjetas visuales con funcionalidades dinámicas enfocadas en experiencia de usuario.
 
-### 🔹 Proyecto 2 – [web_project_around_es]
-Repositorio: https://gerar2309dfm.github.io/web_project_around_es/
+Tecnologías
 
-**Contexto**  
-Desarrollo de una aplicación web interactiva enfocada en la experiencia del usuario y la correcta manipulación del DOM.
+HTML • CSS • JavaScript • Webpack
 
-**Tecnologías**  
-HTML, CSS, JavaScript
+Funcionalidades
+Edición de perfil
+Likes y eliminación de tarjetas
+Formularios con validación
+Popups dinámicos
+Arquitectura modular con JavaScript
+Demo
 
-**Aprendizajes**  
-- Trabajo con funciones y código asíncrono  
-- Resolución de problemas mediante lógica estructurada  
-- Uso de Git y control de versiones  
+Ver proyecto
 
----
+ Experiencia Técnica
 
-## 🎖️ Rasgos distintivos
+Además del desarrollo web, cuento con experiencia en:
 
-- Experiencia trabajando directamente con clientes finales  
-- Resolución de problemas en campo y bajo presión  
-- Trabajo en equipo y comunicación efectiva  
-- Organización del tiempo y toma de decisiones técnicas  
-- Ética profesional y atención al detalle  
-- Aprendiz constante en el mundo de la tecnología  
+Infraestructura tecnológica
+Redes inalámbricas y cableadas
+Automatización y domótica
+Sistemas CCTV
+Control de acceso
+Soporte técnico y troubleshooting
 
----
-
-## 📫 Contacto
-
-- LinkedIn: https://www.linkedin.com/in/gerardo-david-fernandez-martinez-944047373  
-- Email: gerardodavidf@icloud.com  
-- GitHub: https://github.com/Gerar2309dfm
+📫 Contacto
+💼 LinkedIn: linkedin.com/in/gerardo-david-fernandez-martinez-944047373
+📧 Email: gerardodavidf@icloud.com
+💻 GitHub: github.com/Gerar2309dfm
 
 
 
