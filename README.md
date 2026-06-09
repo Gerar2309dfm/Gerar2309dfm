@@ -7,7 +7,7 @@ Soy desarrollador Full Stack Junior con más de 15 años de experiencia previa e
 
 Mi transición hacia el desarrollo de software comenzó trabajando en la configuración e integración de sistemas tecnológicos, donde descubrí mi interés por la programación y la creación de soluciones digitales. Hoy combino esa experiencia técnica con el desarrollo Full Stack para construir aplicaciones modernas, escalables y orientadas a resolver problemas reales.
 
-Actualmente finalizo el Bootcamp de Desarrollo Web Full Stack en TripleTen, donde he desarrollado proyectos frontend y backend aplicando buenas prácticas de desarrollo, arquitectura cliente-servidor, APIs REST y despliegue de aplicaciones en producción.
+Actualmente egresado de  el Bootcamp de Desarrollo Web Full Stack en TripleTen, donde he desarrollado proyectos frontend y backend aplicando buenas prácticas de desarrollo, arquitectura cliente-servidor, APIs REST y despliegue de aplicaciones en producción.
 
 🎯 Objetivo Profesional
 
