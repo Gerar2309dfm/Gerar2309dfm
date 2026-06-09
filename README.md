@@ -38,6 +38,9 @@ VS Code
 Linux
 Nginx
 📂 Proyectos Destacados
+
+
+
 📰 News Explorer — Full Stack News Platform
 
 Aplicación Full Stack que permite buscar noticias en tiempo real, guardar artículos favoritos y administrarlos desde una cuenta personal.
