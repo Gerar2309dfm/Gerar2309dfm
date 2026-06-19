@@ -1,143 +1,82 @@
 👋 Hola, soy Gerardo Fernández
 Full Stack Developer Junior
 
-Bienvenido a mi perfil de GitHub 🚀
+Desarrollador Full Stack Junior con formación en desarrollo web moderno y más de 15 años de experiencia previa en infraestructura tecnológica, redes, automatización y sistemas de seguridad electrónica.
 
-Soy desarrollador Full Stack Junior con más de 15 años de experiencia previa en infraestructura tecnológica, redes, automatización y sistemas de seguridad electrónica. Actualmente desarrollo aplicaciones web modernas utilizando JavaScript, React, Node.js, Express y MongoDB.
+Actualmente desarrollo aplicaciones web utilizando JavaScript, React, Node.js, Express y MongoDB, creando soluciones enfocadas en la experiencia del usuario, APIs REST y despliegue en producción.
 
-Mi transición hacia el desarrollo de software comenzó trabajando en la configuración e integración de sistemas tecnológicos, donde descubrí mi interés por la programación y la creación de soluciones digitales. Hoy combino esa experiencia técnica con el desarrollo Full Stack para construir aplicaciones modernas, escalables y orientadas a resolver problemas reales.
-
-Actualmente egresado de  el Bootcamp de Desarrollo Web Full Stack en TripleTen, donde he desarrollado proyectos frontend y backend aplicando buenas prácticas de desarrollo, arquitectura cliente-servidor, APIs REST y despliegue de aplicaciones en producción.
+Graduado del Bootcamp de Desarrollo Web Full Stack de TripleTen, donde desarrollé proyectos frontend y backend aplicando buenas prácticas de desarrollo, arquitectura cliente-servidor, autenticación con JWT y bases de datos MongoDB.
 
 🎯 Objetivo Profesional
 
-Busco mi primera oportunidad como Desarrollador Full Stack Junior, donde pueda aportar mi experiencia técnica, capacidad de resolución de problemas, orientación al aprendizaje continuo y conocimientos en desarrollo web moderno.
+Busco mi primera oportunidad como Desarrollador Full Stack Junior o Frontend Developer Junior para aportar mis habilidades técnicas, capacidad de aprendizaje y experiencia en resolución de problemas tecnológicos.
 
-🛠️ Tecnologías y Herramientas
+🛠️ Tecnologías
 Frontend
 HTML5
 CSS3
 JavaScript ES6+
 React
 React Router
-Responsive Web Design
+Responsive Design
 Metodología BEM
 Backend
 Node.js
 Express.js
 MongoDB
 Mongoose
-JWT Authentication
-REST APIs
+JWT
+APIs REST
 Herramientas
 Git
 GitHub
-Webpack
 Vite
-VS Code
+Webpack
 Linux
 Nginx
+VS Code
 📂 Proyectos Destacados
+📰 News Explorer
 
+Aplicación Full Stack para búsqueda y gestión de noticias.
 
+Tecnologías: React, Node.js, Express, MongoDB, JWT, Vite
 
-📰 News Explorer — Full Stack News Platform
-
-Aplicación Full Stack que permite buscar noticias en tiempo real, guardar artículos favoritos y administrarlos desde una cuenta personal.
-
-Tecnologías
-
-React • Node.js • Express • MongoDB • JWT • Vite
-
-Funcionalidades
-Registro e inicio de sesión
-Rutas protegidas
-Persistencia de sesión
-Búsqueda de noticias mediante API externa
-Guardado y eliminación de artículos
-API REST propia
 Demo
 
-Frontend:
-https://news-explorer.duckdns.org/
-
-Backend:
-https://news-explorer-api.duckdns.org/
-
+Frontend: https://news-explorer.duckdns.org
+Backend: https://news-explorer-api.duckdns.org
 🚀 Full Stack Cards Platform
 
-Aplicación Full Stack para gestión de perfiles y tarjetas visuales con autenticación segura y despliegue completo en producción.
+Aplicación Full Stack para gestión de perfiles y tarjetas con autenticación segura.
 
-Tecnologías
+Tecnologías: React, Node.js, Express, MongoDB, JWT
 
-React • Node.js • Express • MongoDB • JWT • Nginx • Linux
+🌎 Around The U.S.
 
-Funcionalidades
-Registro de usuarios
-Login con JWT
-Edición de perfil y avatar
-Gestión de tarjetas
-Likes
-Eliminación de contenido
-API REST
-Deploy en producción
-🌎 Around The U.S. — Interactive Social Gallery
+Galería interactiva con gestión de perfiles y tarjetas.
 
-Aplicación web interactiva donde los usuarios pueden crear y gestionar tarjetas visuales mediante una interfaz moderna y responsiva.
+Tecnologías: HTML, CSS, JavaScript, Webpack
 
-Tecnologías
-
-HTML • CSS • JavaScript • Webpack
-
-Funcionalidades
-Edición de perfil
-Gestión de tarjetas
-Validaciones dinámicas
-Popups interactivos
-Arquitectura modular
 💰 Expense Tracker App
 
-Aplicación web enfocada en la gestión visual de gastos y manipulación dinámica del DOM.
+Aplicación web para gestión visual de gastos.
 
-Tecnologías
+Tecnologías: HTML, CSS, JavaScript
 
-HTML • CSS • JavaScript
-
-Funcionalidades
-Gestión visual de gastos
-Diseño responsive
-Eventos interactivos
-Validaciones
-📈 Actualmente fortaleciendo conocimientos en
+📈 Actualmente aprendiendo
+React avanzado
+SQL
 Arquitectura Full Stack
-APIs REST
-MongoDB
-React Avanzado
 Seguridad y autenticación
 Buenas prácticas de backend
-🎖️ Experiencia Técnica
-
-Además del desarrollo web, cuento con experiencia en:
-
-Infraestructura tecnológica
-Redes inalámbricas y cableadas
-Automatización y domótica
-Sistemas CCTV
-Control de acceso
-Soporte técnico
-Troubleshooting
-Atención a clientes
-Implementación de soluciones tecnológicas
 📫 Contacto
 
-💼 LinkedIn:
-linkedin.com/in/gerardo-david-fernandez-martinez-944047373
+💼 LinkedIn: linkedin.com/in/gerardo-david-fernandez-martinez-944047373
 
-📧 Email:
-gerardodavidf@icloud.com
+📧 gerardodavidf@icloud.com
 
-💻 GitHub:
-github.com/Gerar2309dfm
+💻 github.com/Gerar2309dfm
 
 
 
