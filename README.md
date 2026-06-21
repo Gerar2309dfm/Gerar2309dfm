@@ -68,6 +68,13 @@ https://news-explorer.duckdns.org
 Backend:
 https://news-explorer-api.duckdns.org
 
+### Repositorios
+Frontend:
+https://github.com/Gerar2309dfm/news-explorer-frontend
+
+Backend:
+https://github.com/Gerar2309dfm/news-explorer-backend
+
 Lo que aprendí
 
 Este proyecto me permitió integrar frontend y backend, trabajar con autenticación segura, consumo de APIs externas y despliegue completo de una aplicación Full Stack.
@@ -105,6 +112,10 @@ Backend API
 
 https://miappgerardo-api.duckdns.org
 
+Repositorio 
+
+https://github.com/Gerar2309dfm/web_project_api_full
+
 🌎 Around The U.S.
 
 Galería interactiva responsiva que permite crear, visualizar y administrar tarjetas mediante una interfaz moderna basada en componentes reutilizables.
@@ -123,6 +134,9 @@ Diseño responsive
 Lo que aprendí
 
 Aprendí programación orientada a objetos en JavaScript, modularización del código y buenas prácticas de desarrollo frontend.
+
+<img width="2113" height="1304" alt="image" src="https://github.com/user-attachments/assets/3e4c0c3c-07d6-45f5-ae53-c98e26c3ae13" />
+<img width="2128" height="1180" alt="image" src="https://github.com/user-attachments/assets/769f48da-ea0c-47b0-9d99-4a7937123efe" />
 
 💰 Expense Tracker App
 
